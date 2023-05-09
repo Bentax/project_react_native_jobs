@@ -4,6 +4,12 @@
 ```bash
 npm install -g expo-cli
 ```
+```bash
+npm start
+```
+```bash
+npx expo install expo-splash-screen@~0.18.2 expo-updates@~0.16.4 react-native@0.71.7
+```
 Запуск:
 ```bash
 expo-cli start --tunnel
