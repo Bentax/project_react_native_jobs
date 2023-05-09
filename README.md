@@ -1,5 +1,5 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# Build and Deploy a React Native App | 2023 React Native Course Tutorial
+
 Из папки проекта:
 ```bash
 npm install -g expo-cli
@@ -8,7 +8,7 @@ npm install -g expo-cli
 ```bash
 expo-cli start --tunnel
 ```
-Деплой:
+Publish:
 ```bash
 expo publish
 ```
