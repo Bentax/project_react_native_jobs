@@ -1,4 +1,4 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial
+# Build and Deploy a React Native App
 
 Из папки проекта:
 ```bash
