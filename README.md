@@ -8,6 +8,10 @@ npm install -g expo-cli
 ```bash
 expo-cli start --tunnel
 ```
+Деплой:
+```bash
+expo publish
+```
 ## Introduction
 The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
 
